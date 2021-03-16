@@ -1,5 +1,5 @@
 # Signos-app
-## É um app criado a partir do node.js, onde vou deixar a pasta compactado com todos os aquivos do projeto disponível acima.
+## É um app criado a partir do node.js, onde vou deixar a pasta de build com os aquivos necessários para subir a página e torna-la acessível. Infelizmente não consigo deixar todos os arquivos do projeto disponúveis, pois o Git não suporta todos.
 #### link do projeto: 
 https://signossapp.netlify.app/
 ### Foi mais uma tarefa reproduzida em aula, confira alguns prints do projeto a baixo:
